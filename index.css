@@ -1,0 +1,16 @@
+.movimentos{
+
+justify-content: center;
+display: flex;
+color: yellow;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+    border-width: 3px;
+}
+
+.a{
+    color: white;
+}
